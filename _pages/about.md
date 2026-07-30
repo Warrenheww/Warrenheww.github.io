@@ -9,7 +9,7 @@ redirect_from:
 
 I am **Weiwei He**, an incoming **Assistant Professor** at the **Faculty of Synthetic Biology**, **Shenzhen University of Advanced Technology (SUAT)**, starting in **Spring 2027**. I will lead the **Computational Biophysics & AI-Driven Biomolecular Engineering Laboratory (CoBAI Lab)**, focusing on computational biophysics of nucleic acids, AI-driven biomolecular modeling and design, and RNA language models.
 
-**More information about available positions in CoBAI Lab will be announced soon.**
+**More information about available positions in CoBAI Lab will be announced soon. Please also see my [group home page](https://cobailab.github.io/) and our [group GitHub home](https://github.com/cobailab) for the most update research interests.**
 
 I am currently a **Postdoctoral Associate** at **New York University Abu Dhabi**, affiliated with the **Division of Science** and the **Chemistry Program**, where I work with **Prof. Serdal Kirmizialtin** on molecular simulations of nucleic-acid systems. Through a long-standing collaboration with [**Prof. Lois Pollack**](https://pollack.research.engineering.cornell.edu/) at **Cornell University**, I develop simulation methods that integrate solution scattering experiments with molecular simulations to advance data-driven modeling of biomolecular systems, especially nucleic acids. Before that, I received my Ph.D. in **Theoretical Chemistry** from **New York University**, also under the guidance of Prof. Kirmizialtin, and earned my B.Sc. in **Chemistry** from **Southern University of Science and Technology (SUSTech)** with **Prof. [Xin-Yuan Liu (刘心元)](https://liuxy.chem.sustech.edu.cn/)**.
 
