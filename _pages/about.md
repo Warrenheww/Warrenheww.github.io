@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Weiwei He**, an incoming **Assistant Professor** at the **Faculty of Synthetic Biology**, **Shenzhen University of Advanced Technology (SUAT)**, starting in **Spring 2027**. I will lead the **Computational Biophysics & AI-Driven Biomolecular Engineering Laboratory (CoBAI Lab)**, focusing on computational biophysics of nucleic acids, AI-driven biomolecular modeling and design, and RNA language models.
+I'm an incoming **Assistant Professor** at the **Faculty of Synthetic Biology**, **Shenzhen University of Advanced Technology (SUAT)**, starting in **Spring 2027**. I will lead the **Computational Biophysics & AI-Driven Biomolecular Engineering Laboratory (CoBAI Lab)**, focusing on computational biophysics of nucleic acids, AI-driven biomolecular modeling and design, and RNA language models.
 
 **More information about available positions in CoBAI Lab will be announced soon. Please also see my [group home page](https://cobailab.github.io/) and our [group GitHub home](https://github.com/cobailab) for the most update research interests.**
 
